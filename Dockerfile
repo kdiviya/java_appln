@@ -2,7 +2,7 @@
 FROM tomcat  
 
 # Maintainer
-MAINTAINER "Diviya" 
+MAINTAINER "DiviyaK" 
 
 # To expose port 
 EXPOSE 8090
